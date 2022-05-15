@@ -1,0 +1,12 @@
+09/04/2022 19:50:55 - https://random-status-code.herokuapp.com/- online: false
+09/04/2022 19:50:55 - https://allugator.com- online: true
+09/04/2022 19:50:59 - https://random-status-code.herokuapp.com/- online: true
+09/04/2022 19:50:59 - https://allugator.com- online: true
+09/04/2022 19:51:03 - https://random-status-code.herokuapp.com/- online: true
+09/04/2022 19:51:03 - https://allugator.com- online: true
+09/04/2022 19:57:54 - https://random-status-code.herokuapp.com/- online: true
+09/04/2022 19:57:54 - https://allugator.com- online: true
+09/04/2022 19:57:58 - https://random-status-code.herokuapp.com/- online: false
+09/04/2022 19:57:58 - https://allugator.com- online: true
+09/04/2022 19:58:02 - https://random-status-code.herokuapp.com/- online: true
+09/04/2022 19:58:02 - https://allugator.com- online: true
